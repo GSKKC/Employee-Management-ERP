@@ -1,0 +1,11 @@
+K:\8-9 June Project\EmployeeManagementProjectDemo\bin\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.deps.json
+K:\8-9 June Project\EmployeeManagementProjectDemo\bin\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.runtimeconfig.json
+K:\8-9 June Project\EmployeeManagementProjectDemo\bin\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.runtimeconfig.dev.json
+K:\8-9 June Project\EmployeeManagementProjectDemo\bin\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.dll
+K:\8-9 June Project\EmployeeManagementProjectDemo\bin\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.pdb
+K:\8-9 June Project\EmployeeManagementProjectDemo\obj\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.csproj.CoreCompileInputs.cache
+K:\8-9 June Project\EmployeeManagementProjectDemo\obj\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.AssemblyInfoInputs.cache
+K:\8-9 June Project\EmployeeManagementProjectDemo\obj\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.AssemblyInfo.cs
+K:\8-9 June Project\EmployeeManagementProjectDemo\obj\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.dll
+K:\8-9 June Project\EmployeeManagementProjectDemo\obj\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.pdb
+K:\8-9 June Project\EmployeeManagementProjectDemo\obj\Debug\netcoreapp2.1\EmployeeManagementProjectDemo.csprojAssemblyReference.cache
